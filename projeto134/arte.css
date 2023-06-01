@@ -1,0 +1,32 @@
+.a{
+   background-color: brown;
+   color:white;
+
+   border:black solid;
+    box-shadow:black 3px 3px 30px ;
+    border-radius: 30px;
+
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+.ab{
+        color:black;
+        position:fixed;
+        width:100%;
+        background:rgb(230, 116, 24);
+        bottom:0;
+
+        border:black solid;
+    box-shadow:yellow 3px 3px 20px ;
+    border-radius: 30px;
+
+    font-family: 'Josefin Sans', sans-serif;
+
+
+}
+body{
+    background-color: olivedrab;
+}
+.z{
+    color:white
+}
